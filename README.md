@@ -18,5 +18,5 @@ This Python script takes the "file.txt" input file, and gerenarates the "file_py
 The script works spliting the input file, in some temp sorted files (100000 lines per temp file).
 Finaly the script merges all the temp files, applying another sort approach.
 
-Thanks, 
+Thanks,  
 Ernesto
